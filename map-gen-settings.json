@@ -5,7 +5,7 @@
   "water": "very-low",
   "width": 0,
   "height": 0,
-  "starting_area": "very-high",
+  "starting_area": "high",
   "peaceful_mode": false,
   "autoplace_controls":
   {
