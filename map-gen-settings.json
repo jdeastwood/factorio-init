@@ -2,7 +2,7 @@
   "_comment": "Sizes can be specified as none, very-low, low, normal, high, very-high",
 
   "terrain_segmentation": "normal",
-  "water": "none",
+  "water": "very-low",
   "width": 0,
   "height": 0,
   "starting_area": "very-high",
